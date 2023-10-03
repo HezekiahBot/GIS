@@ -1,1 +1,98 @@
+<html>
+	<head>
+		<title>GIS Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
 
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<span class="avatar"><img src="images/Profile.jpg" alt="" /></span>
+						<h1><strong>Hezekiah Blandford</strong>
+						<p>GIS Portfolio</h1>
+						<!--<ul class="icons">
+							<li><a href="https://www.facebook.com/people/Hezekiah-Blandford/" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram/hezekiahblandford/" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://github.com/HezekiahBot" class="icon style2 fa-github"><span class="label">500px</span></a></li>
+							<li><a href="mailto:hsb17@humboldt.edu" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+						</ul>-->
+					</header>
+
+				<!-- Main -->
+					<section id="main">
+
+						<!-- Thumbnails -->
+							<!--<section class="thumbnails">
+								<div><a href="https://hezekiahbot.github.io/GIS/about/">About
+								</a>	
+								</div>
+								<div><a href="https://hezekiahbot.github.io/GIS/recent_work/">Recent Work
+								</a>	
+								</div>
+								<!--<div>
+									<a href="images/police_map.png">
+										<img src="images/police_map.png" alt="" />
+										<h3>Police Shooting In United States</h3>
+									</a>
+									<a href="images/Oilspills_map.png">
+										<img src="images/Oilspills_map.png" alt="" />
+										<h3>Crude Oil Spills</h3>
+									</a>
+									<a href="images/Carpet.png">
+										<img src="images/Carpet.png" alt="" />
+										<h3>PDX Carpet</h3>
+									</a>
+								</div>-->
+								<!--<div>
+									<a href="images/States_map.png">
+										<img src="images/States_map.png" alt="" />
+										<h3>US Capitals</h3>
+									</a>
+									<a href="images/Coastline_map.png">
+										<img src="images/Coastline_map.png" alt="" />
+										<h3>Louisiana Coastline</h3>
+									</a>
+									<a href="images/Portland_map.png">
+										<img src="images/Portland_map.png" alt="" />
+										<h3>Portland Landscape</h3>
+									</a>
+								</div>-->
+								<!--<div>
+									<a href="images/Transit_map.png">
+										<img src="images/Transit_map.png" alt="" />
+										<h3>Humboldt Transit System</h3>
+									</a>
+									<a href="images/US_map.png">
+										<img src="images/US_map.png" alt="" />
+										<h3>Physical Map of United States</h3>
+									</a>
+								</div>-->
+							</section>-->
+						<!--<div>
+						<iframe width="785" height="500" src="https://dikembe3000.github.io/Mural_Project/" frameborder="0" width="100%" height="800"></iframe>
+								<h3>Balmy Alley Mural Project</h3>
+								<p>Murals and Artist of the Famous Balmy Alley in the Mission District</p>
+						
+						</div>-->
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p>GIS Portfolio. All rights reserved. Design: Hezekiah Blandford  </p>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
